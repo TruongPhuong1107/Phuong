@@ -3,4 +3,4 @@ function ham(s) {
   var stre = pattern.test(s);
   return stre;
 }
-console.log(ham("a phuong "));
+console.log(ham("a phuong asa"));
