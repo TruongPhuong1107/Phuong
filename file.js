@@ -1,6 +1,6 @@
 function ham(s) {
   let pattern = /\bphuong\b/;
-  var str = pattern.test(s);
-  return str;
+  var stre = pattern.test(s);
+  return stre;
 }
 console.log(ham("a phuong "));
